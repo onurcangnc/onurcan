@@ -1,10 +1,17 @@
 #define _CRT_SECURE_NO_WARNINGS
+
 #define NUTELLA_PER_GRAM 5.42
+
 #define BREAD_PER_GRAM 3
+
 #define EGG_PER_GRAM 2
+
 #define OLİVE_GRAM 4
+
 #define CHEESE_GRAM 113
+
 /* Calculate your daily calory in Breakfast */
+
 #include <stdio.h>
 
 int main(void) {
